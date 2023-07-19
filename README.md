@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natansalda
-- 👀 I’m interested in Android development
+- 👀 I have 4+ years of experience in Android development
 - 🌱 I enjoy working with Kotlin, Jetpack Compose, MVVM, Clean Architecture
 - 💞️ I’m GDG 3city organizer: https://gdg.community.dev/gdg-3city/
 - 📫 How to reach me: https://www.linkedin.com/in/natalia-nazaruk/
